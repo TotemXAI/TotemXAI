@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TotemXAI
 - 👀 I’m interested in Data science, Machine learning, Deep learning. 
 - 🌱 I’m currently learning MLOps.
-- 💞️ I’m looking to collaborate on Startups, new product development. 
+-  I’m looking to collaborate on Startups, new product development. 
 - 📫 totemrevolves@gmail.com
 
 <!---
